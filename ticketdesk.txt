@@ -1,7 +1,0 @@
-
-port - 587
-server- smtp.office365.com
-email- TicketDesk@atmc.edu.au
-pass - 29@edfibre!2020
-
-encryption mode - tls
